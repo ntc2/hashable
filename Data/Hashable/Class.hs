@@ -1,3 +1,4 @@
+{-# LANGUAGE TypeSynonymInstances #-}
 {-# LANGUAGE BangPatterns, CPP, ForeignFunctionInterface, MagicHash,
              ScopedTypeVariables, UnliftedFFITypes, DeriveDataTypeable #-}
 #ifdef GENERICS
